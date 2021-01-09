@@ -1,5 +1,10 @@
 # Travel-Insurance-Claim
 
+Travel Insurance Hackathon<br>
+Organizer - GreyAtom Institute of Data Science
+Team Name - Outstanding Outliers<br>
+Team Members - [Aniket Naik](https://github.com/Aniket1313), [Sarika Nangare](https://github.com/saru712)
+
 <img src = 'image/intro.jpg'>
 
 SafeTravel Inc. is one of the world's largest insurance companies specializing in travel insurance. During travel, there are a lot of risk factors - loss of baggage, airline cancellations, health issues etc. The potential customers are travellers who want to insure themselves against travel-related risks. They have different product offerings like 1-way travel insurance, 2-way insurance, insurance against cancellations and so on. They receive thousands of claims spread across different products.
@@ -23,5 +28,5 @@ A zipped file containing train, test and sample submission files are given. The 
    - The identification record of every observation (ID)
    
    
-Presentation file:
-[Travel Insurance](Travel_Insurance_Final.pptx)
+Presentation file:<br>
+[Travel Insurance](Travel_Insurance_Final.pdf)
