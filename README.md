@@ -23,5 +23,5 @@ A zipped file containing train, test and sample submission files are given. The 
    - The identification record of every observation (ID)
    
    
-Presentation file:
-[Travel Insurance](Travel_Insurance_Final.pptx)
+Presentation file:<br>
+[Travel Insurance](Travel_Insurance_Final.pdf)
