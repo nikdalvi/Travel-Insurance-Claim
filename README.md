@@ -6,3 +6,20 @@ SafeTravel Inc. is one of the world's largest insurance companies specializing i
 
 Wrongly denying a genuine claim could lead to lawsuits against the company and approving the wrong claim would lead to a loss. Automatically predicting the claims could lead to a lot of benefits and solve some other supplementary problems too. As a team of data scientists consulting for SafeTravel Inc, you are now responsible for meeting their business outcomes.
 
+# Dataset Description
+
+A zipped file containing train, test and sample submission files are given. The training dataset consists of data corresponding to 52310 customers and the test dataset consists of 22421 customers. Following are the features of the dataset
+
+   - Target: Claim Status (Claim)
+   - Name of agency (Agency)
+   - Type of travel insurance agencies (Agency.Type)
+   - Distribution channel of travel insurance agencies (Distribution.Channel)
+   - Name of the travel insurance products (Product.Name)
+   - Duration of travel (Duration)
+   - Destination of travel (Destination)
+   - Amount of sales of travel insurance policies (Net.Sales)
+   - The commission received for travel insurance agency (Commission)
+   - Age of insured (Age)
+   - The identification record of every observation (ID)
+   
+   
