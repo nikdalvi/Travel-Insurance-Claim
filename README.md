@@ -1,5 +1,7 @@
 # Travel-Insurance-Claim
 
+Travel Insurance Hackathon<br>
+Organizer - GreyAtom Institute of Data Science
 Team Name - Outstanding Outliers<br>
 Team Members - [Aniket Naik](https://github.com/Aniket1313), [Sarika Nangare](https://github.com/saru712)
 
