@@ -1,7 +1,7 @@
 # Travel Insurance Claim Prediction
 
 Travel Insurance Hackathon<br>
-Organizer - GreyAtom Institute of Data Science
+Organizer - GreyAtom Institute of Data Science<br>
 Team Name - Outstanding Outliers<br>
 Contributors - [Aniket Naik](https://github.com/Aniket1313), [Sarika Nangare](https://github.com/saru712)
 
